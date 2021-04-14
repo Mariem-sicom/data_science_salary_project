@@ -8,4 +8,5 @@ To collect data we will work on web scraping using Selenium, a Python library an
 Once our data is in a dataframe we will load it in a csv file.
 
 ## 2. Data cleaning:
-In this step we will do Salary parsing, add a State field, add the Age of the company and analyse Job Description column
+In this step we will do Salary parsing, add a State field, add the Age of the company, analyse Job Description column and Job Title column and make hourly salary to annual
+
