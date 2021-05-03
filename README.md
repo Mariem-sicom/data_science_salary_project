@@ -11,3 +11,8 @@ Once our data is in a dataframe we will load it in a csv file.
 In this step we will do Salary parsing, add a State field, add the Age of the company, analyse Job Description column and Job Title column and make hourly salary to annual
 
 ## 3. Exploratory Data Analysis
+
+## 4. Model Building
+* Evaluate different algorithms (Multiple Linear Regression, Lasso regression, Random Forest)
+* Keep the Random Forest algorithm as it gives the smallest error
+* Pickle the model: converting the model into an object which can be stored, transferred, and converted back to the original model at a later time
